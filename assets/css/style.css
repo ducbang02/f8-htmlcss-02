@@ -180,6 +180,12 @@ img {
 
 /* ============== Hero =========== */
 
+/* video */
+.hero-wrap .img-hero video {
+    height: 685px;
+    width: 470px;
+}
+
 .hero-wrap {
     background-color: var(--background-color);
 }
